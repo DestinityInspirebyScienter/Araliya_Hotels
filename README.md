@@ -1,6 +1,4 @@
 # Araliya_Hotels
-
-Repository Description
 ======================
 
 This repository contains property-based images grouped by module.  
