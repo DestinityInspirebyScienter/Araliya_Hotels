@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Araliya Green Hilld</title>
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.araliyahotels.com/brand/AGH-logo">
+  <meta property="og:title" content="Araliya Green Hilld">
+  <meta property="og:description" content="Official logo and brand assets for Araliya Green Hilld.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/DestinityInspirebyScienter/Araliya_Hotels/main/CRM/Logos/AGH.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <!-- (Optional) Twitter cards help some clients too -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Araliya Green Hilld">
+  <meta name="twitter:description" content="Official logo and brand assets for Araliya Green Hilld.">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/DestinityInspirebyScienter/Araliya_Hotels/main/CRM/Logos/AGH.jpg">
+</head>
+<body>
+  <img src="https://raw.githubusercontent.com/DestinityInspirebyScienter/Araliya_Hotels/main/CRM/Logos/AGH.jpg" alt="AGH Logo" />
+</body>
+</html>
